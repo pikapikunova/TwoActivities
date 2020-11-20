@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Two activities</string>
+    <string name="GiveATip">Show a tip</string>
+    <string name="Answer">Answer</string>
+</resources>
